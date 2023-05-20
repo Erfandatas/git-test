@@ -1,2 +1,3 @@
-# git-test
-premiet test sur blent
+# Test Git
+
+Nous travaillons sur les branches de Git !
